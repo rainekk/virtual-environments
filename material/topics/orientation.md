@@ -43,7 +43,6 @@ Virtualisointi voidaan toteuttaa kahdella eri päätavalla:
 Virtualisointia käytetään mm. seuraavista syistä:
 - **Resurssitehokkuus**: Ennen virtualisointia jokainen sovelluspalvelin vaati oman fyysisen prosessorin. Tällöin
 jokainen fyysinen palvelin on usein vajaakäytössä. Sitä vastoin palvelimen virtualisoinnin avulla voidaan ajaa useita sovelluksia – jokaista omassa virtuaalikoneessa, jossa on oma käyttöjärjestelmä – yhdessä fyysisessä tietokoneessa. Tämä mahdollistaa fyysisen laitteiston kapasiteetin optimaalisemman hyödyntämisen.
-    ![Kuva 6 Bare metal.](../images/6.png)
 - **Helpompi hallinta**: Fyysisten tietokoneiden korvaaminen virtualisointiympäristössä määritellyillä 
 virtuaalikoneilla helpottaa niiden käyttöä ja hallintaa. Palvelinvirtualisointijärjestelmissä on 
 keskitetyt hallintasovellukset, joissa kaikkien virtuaalipalvelimien tilaa voidaan seurata ja säätää 
@@ -63,4 +62,5 @@ pystyttäminen käyttökuntoon on nopeampaa.
 
 ## Tekijät
 Seinäjoen ammattikorkeakoulu, alkuperäinen teksti Alpo Anttonen ja webmuunnos sekä muokkaukset Raine Kauppinen.
+
 
