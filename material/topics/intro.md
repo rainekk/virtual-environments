@@ -1,5 +1,5 @@
-# Virtualisointi lyhyesti
-## Johdanto
+# Johdanto
+## Virtualisointi
 Lähtökohtaisesti yhdessä tietokoneessa on yksi laitteisto ja siihen asennettu käyttöjärjestelmä sekä sovellukset. Toisin sanottuna tässä tapauksessa jokainen käyttöjärjestelmä tarvitsee oman fyysisen tietokoneen.
 
 ![Kuva 1 Ilman virtualisointia.](../images/1.png)
@@ -62,5 +62,6 @@ pystyttäminen käyttökuntoon on nopeampaa.
 
 ## Tekijät
 Seinäjoen ammattikorkeakoulu, alkuperäinen teksti Alpo Anttonen ja webmuunnos sekä muokkaukset Raine Kauppinen.
+
 
 
